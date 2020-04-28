@@ -1,0 +1,19 @@
+
+.avatar-dgo{
+	border-radius: 50%;
+	width: 8em;
+}
+
+.name{
+	font-size: 2ex;
+	vertical-align: middle;
+}
+.email{
+	font-size: 2ex;
+	vertical-align: middle;
+}
+
+.table_card{
+	table-layout: fixed;
+	height: 100px;
+}
